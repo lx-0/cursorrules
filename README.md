@@ -1,12 +1,12 @@
 # Cursor Rules
 
-## [Multi-Agent](./multi-agent/.cursorrules)
+## [Multi-Agent](./multi-agent)
 
 Simple Demo to show how to use multi-agent in Cursor.
 
 ![Screenshot](./multi-agent/screenshot.png)
 
-## [Project Board](./project-board/.cursorrules)
+## [Project Board](./project-board)
 
 **🚧 Work in Progress**
 
